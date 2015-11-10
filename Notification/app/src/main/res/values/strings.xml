@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">"Notification "</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="notification_prompt">"We have detected an issue with your walking pattern. Could you let us know what happen?"</string>
+    <string name="normal">I\'m OK</string>
+    <string name="abnormal">I\'m feeling off</string>
+    <string name="fall">I fell</string>
+    <string name="tired">I\'m just tired</string>
+    <string name="title_activity_fall">FallActivity</string>
+    <string name="activity_fall_prompt"><font size='16'>We will notify emergency care if a button is not pressed</font></string>
+    <string name="emergency_call">Call 911</string>
+    <string name="contact_call">Call emergency contact</string>
+    <string name="title_activity_not_fall">NotFall</string>
+    <string name="not_fall_prompt">I\'m glad you are doing well!</string>
+</resources>
